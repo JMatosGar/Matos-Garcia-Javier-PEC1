@@ -1,0 +1,176 @@
+#METABOLOMICS WORKBENCH Jinmei_20170812_050650 DATATRACK_ID:1217 STUDY_ID:ST000875 ANALYSIS_ID:AN001828 PROJECT_ID:PR000606
+VERSION             	1
+CREATED_ON             	January 10, 2019, 1:15 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolomic investigations on Nesterenkonia flava from different origins
+PR:PROJECT_TITLE                 	revealed significant intraspecies differences between marine and terrestrial
+PR:PROJECT_TITLE                 	actinomycetes
+PR:PROJECT_SUMMARY               	Marine is one of the most important resources of microorganisms, including
+PR:PROJECT_SUMMARY               	bacteria, actinomycetes, and fungi. As marine and terrestrial environments
+PR:PROJECT_SUMMARY               	differ a lot in many aspects it is not surprising that the species and
+PR:PROJECT_SUMMARY               	characteristics of microorganisms living there are very different.
+PR:PROJECT_SUMMARY               	Interestingly, many marine microorganisms can find their congeners of the same
+PR:PROJECT_SUMMARY               	species from terrestrial resources. The aim of this work is to evaluate the
+PR:PROJECT_SUMMARY               	intraspecies differences between marine and terrestrial actinomycetes on
+PR:PROJECT_SUMMARY               	metabolic level and to uncover the mechanism responsible for the differences. To
+PR:PROJECT_SUMMARY               	address this, we carried out comparative metabolomics study on Nesterenkonia
+PR:PROJECT_SUMMARY               	flava strains isolated from marine and terrestrial environments. The results
+PR:PROJECT_SUMMARY               	showed that marine strains were clearly distinguished from their terrestrial
+PR:PROJECT_SUMMARY               	congeners on the principal components analysis (PCA) scores plot of
+PR:PROJECT_SUMMARY               	intracellular metabolites. The markers responsible for the discrimination of
+PR:PROJECT_SUMMARY               	marine and terrestrial strains were figured out using loading plot from partial
+PR:PROJECT_SUMMARY               	least squares discrimination analysis (PLS-DA). Pathway analysis based on
+PR:PROJECT_SUMMARY               	PLS-DA, univariate analysis, and correlation analysis of metabolites showed that
+PR:PROJECT_SUMMARY               	the major differential metabolites between the terrestrial N. flava and the
+PR:PROJECT_SUMMARY               	marine ones were involved in osmotic regulation, redox balancing, and energy
+PR:PROJECT_SUMMARY               	metabolism. Together, these insights provide clues as to how the previous living
+PR:PROJECT_SUMMARY               	environment of microbes affect their current metabolic performances under
+PR:PROJECT_SUMMARY               	laboratory cultivation conditions.
+PR:INSTITUTE                     	Third Institute of Oceanography, State Oceanic Administration
+PR:LAST_NAME                     	Xia
+PR:FIRST_NAME                    	Jinmei
+PR:ADDRESS                       	184 Daxue Road, Xiamen 361005, PR China
+PR:EMAIL                         	xiajinmei@tio.org.cn
+PR:PHONE                         	86-13003995626
+#STUDY
+ST:STUDY_TITLE                   	Metabolomic investigations on Nesterenkonia flava from different origins
+ST:STUDY_TITLE                   	revealed significant intraspecies differences between marine and terrestrial
+ST:STUDY_TITLE                   	actinomycetes
+ST:STUDY_SUMMARY                 	Marine is one of the most important resources of microorganisms, including
+ST:STUDY_SUMMARY                 	bacteria, actinomycetes, and fungi. As marine and terrestrial environments
+ST:STUDY_SUMMARY                 	differ a lot in many aspects it is not surprising that the species and
+ST:STUDY_SUMMARY                 	characteristics of microorganisms living there are very different.
+ST:STUDY_SUMMARY                 	Interestingly, many marine microorganisms can find their congeners of the same
+ST:STUDY_SUMMARY                 	species from terrestrial resources. The aim of this work is to evaluate the
+ST:STUDY_SUMMARY                 	intraspecies differences between marine and terrestrial actinomycetes on
+ST:STUDY_SUMMARY                 	metabolic level and to uncover the mechanism responsible for the differences. To
+ST:STUDY_SUMMARY                 	address this, we carried out comparative metabolomics study on Nesterenkonia
+ST:STUDY_SUMMARY                 	flava strains isolated from marine and terrestrial environments. The results
+ST:STUDY_SUMMARY                 	showed that marine strains were clearly distinguished from their terrestrial
+ST:STUDY_SUMMARY                 	congeners on the principal components analysis (PCA) scores plot of
+ST:STUDY_SUMMARY                 	intracellular metabolites. The markers responsible for the discrimination of
+ST:STUDY_SUMMARY                 	marine and terrestrial strains were figured out using loading plot from partial
+ST:STUDY_SUMMARY                 	least squares discrimination analysis (PLS-DA). Pathway analysis based on
+ST:STUDY_SUMMARY                 	PLS-DA, univariate analysis, and correlation analysis of metabolites showed that
+ST:STUDY_SUMMARY                 	the major differential metabolites between the terrestrial N. flava and the
+ST:STUDY_SUMMARY                 	marine ones were involved in osmotic regulation, redox balancing, and energy
+ST:STUDY_SUMMARY                 	metabolism. Together, these insights provide clues as to how the previous living
+ST:STUDY_SUMMARY                 	environment of microbes affect their current metabolic performances under
+ST:STUDY_SUMMARY                 	laboratory cultivation conditions.
+ST:INSTITUTE                     	Third Institute of Oceanography, State Oceanic Administration
+ST:LAST_NAME                     	Xia
+ST:FIRST_NAME                    	Jinmei
+ST:ADDRESS                       	184 Daxue Road, Xiamen 361005, PR China
+ST:EMAIL                         	xiajinmei@tio.org.cn
+ST:PHONE                         	86-13003995626
+#SUBJECT
+SU:SUBJECT_TYPE                  	NMR based metabolomics of microbes
+SU:SUBJECT_SPECIES               	Nesterenkonia flava
+SU:TAXONOMY_ID                   	469799
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	1	Strain:1K00606 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	2	Strain:1K00606 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	3	Strain:1K00606 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	4	Strain:1K00606 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	5	Strain:1K00606 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	6	Strain:1K00606 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	7	Strain:1K00607 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	8	Strain:1K00607 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	9	Strain:1K00607 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	10	Strain:1K00607 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	11	Strain:1K00607 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	12	Strain:1K00607 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	13	Strain:1K00610 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	14	Strain:1K00610 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	15	Strain:1K00610 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	16	Strain:1K00610 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	17	Strain:1K00610 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	18	Strain:1K00610 | Strain source:Marine | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	19	Strain:1A10663 | Strain source:Terrestrial | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	20	Strain:1A10663 | Strain source:Terrestrial | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	21	Strain:1A10663 | Strain source:Terrestrial | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	22	Strain:1A10663 | Strain source:Terrestrial | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	23	Strain:1A10663 | Strain source:Terrestrial | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	24	Strain:1A10663 | Strain source:Terrestrial | Medium:A14	
+SUBJECT_SAMPLE_FACTORS           	-	25	Strain:1K00606 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	26	Strain:1K00606 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	27	Strain:1K00606 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	28	Strain:1K00606 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	29	Strain:1K00606 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	30	Strain:1K00606 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	31	Strain:1K00607 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	32	Strain:1K00607 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	33	Strain:1K00607 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	34	Strain:1K00607 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	35	Strain:1K00607 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	36	Strain:1K00607 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	37	Strain:1K00610 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	38	Strain:1K00610 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	39	Strain:1K00610 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	40	Strain:1K00610 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	41	Strain:1K00610 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	42	Strain:1K00610 | Strain source:Marine | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	43	Strain:1A10663 | Strain source:Terrestrial | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	44	Strain:1A10663 | Strain source:Terrestrial | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	45	Strain:1A10663 | Strain source:Terrestrial | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	46	Strain:1A10663 | Strain source:Terrestrial | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	47	Strain:1A10663 | Strain source:Terrestrial | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	48	Strain:1A10663 | Strain source:Terrestrial | Medium:A6	
+SUBJECT_SAMPLE_FACTORS           	-	49	Strain:1K00606 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	50	Strain:1K00606 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	51	Strain:1K00606 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	52	Strain:1K00606 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	53	Strain:1K00606 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	54	Strain:1K00606 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	55	Strain:1K00607 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	56	Strain:1K00607 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	57	Strain:1K00607 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	58	Strain:1K00607 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	59	Strain:1K00607 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	60	Strain:1K00607 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	61	Strain:1K00610 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	62	Strain:1K00610 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	63	Strain:1K00610 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	64	Strain:1K00610 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	65	Strain:1K00610 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	66	Strain:1K00610 | Strain source:Marine | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	67	Strain:1A10663 | Strain source:Terrestrial | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	68	Strain:1A10663 | Strain source:Terrestrial | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	69	Strain:1A10663 | Strain source:Terrestrial | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	70	Strain:1A10663 | Strain source:Terrestrial | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	71	Strain:1A10663 | Strain source:Terrestrial | Medium:A3	
+SUBJECT_SAMPLE_FACTORS           	-	72	Strain:1A10663 | Strain source:Terrestrial | Medium:A3	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	The broth cultures (50 mL) were harvested via centrifugation at 7000 g for 10
+CO:COLLECTION_SUMMARY            	min under 4 °C. The pellet was quenched using 10 mL of 60% cold methanol (−80
+CO:COLLECTION_SUMMARY            	°C) containing 0.85% (wt./vol.) of NaCl for 30 min. The quenched cell pellets
+CO:COLLECTION_SUMMARY            	were re-suspended in 10 mL of cold PBS and were washed for 3 times.
+CO:SAMPLE_TYPE                   	Cultured cells
+#TREATMENT
+TR:TREATMENT_SUMMARY             	For each cell pellet sample, 5 mL of the mixture of methanol/water (1:0.9, v/v)
+TR:TREATMENT_SUMMARY             	was added and ultrasonicated for 25 min to break cells bathing in ice. The
+TR:TREATMENT_SUMMARY             	mixture was added with 5 mL of cold chloroform, vortexed and subjected to 10 min
+TR:TREATMENT_SUMMARY             	of ultrasonic extraction under the bath of ice. The mixture was then centrifuged
+TR:TREATMENT_SUMMARY             	at 9500 g for 8 min. The upper layer phase containing methanol and water was
+TR:TREATMENT_SUMMARY             	taken out and evaporated in the fume cupboard to remove methanol. The remaining
+TR:TREATMENT_SUMMARY             	water solution was freezed under −80 °C, and then freeze-dried to afford dry
+TR:TREATMENT_SUMMARY             	samples, which were stored under −80 °C before analysis.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	The intracellular extract was re-suspended in 550 µL of phosphate buffer
+SP:SAMPLEPREP_SUMMARY            	containing 1.5 M KH2PO4, 0.1% sodium 3-(trimethylsilyl) propionate-2,2,3,3-d4
+SP:SAMPLEPREP_SUMMARY            	(TSP), and 10% D2O. Subsequently, all the samples were vortexed and centrifuged
+SP:SAMPLEPREP_SUMMARY            	at 12000 g for 15 min at 4°C to remove any insoluble components. The collected
+SP:SAMPLEPREP_SUMMARY            	supernatants (500 μL) were transferred to 5 mm NMR tubes for analysis.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	NMR
+#NMR
+NM:INSTRUMENT_NAME               	Bruker Avance III 850 MHz spectrometer
+NM:INSTRUMENT_TYPE               	FT-NMR
+NM:NMR_EXPERIMENT_TYPE           	1D-1H
+NM:SPECTROMETER_FREQUENCY        	850 MHz
+NM:NMR_RESULTS_FILE              	ST000875_AN001828_Results.txt	UNITS:ppm
+#END
